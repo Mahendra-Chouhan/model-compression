@@ -1,0 +1,6 @@
+click==8.0.4
+numpy==1.22.2
+onnxruntime==1.10.0
+scikit_learn==1.0.2
+torch==1.10.2
+transformers==4.16.2
